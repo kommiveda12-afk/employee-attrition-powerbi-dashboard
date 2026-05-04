@@ -88,6 +88,17 @@ Analysis:
 ![Risk Analysis](screenshots/analysis.png)
 
 ---
+## Project Highlights
+
+- Developed a two-page interactive dashboard  
+- Implemented risk segmentation (High, Medium, Low)  
+- Used DAX measures for attrition rate calculation  
+- Added tooltips for deeper analysis  
+## How to Use
+
+1. Download the .pbix file from the dashboard folder  
+2. Open it using Power BI Desktop  
+3. Use slicers such as Risk Level and Department to explore insights  
 
 ## Future Enhancements
 
