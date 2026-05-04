@@ -85,7 +85,7 @@ Analysis:
 
 ### Risk and Predictive Analysis
 
-![Risk Analysis](screenshots/risk_analysis.png)
+![Risk Analysis](screenshots/analysis.png)
 
 ---
 
